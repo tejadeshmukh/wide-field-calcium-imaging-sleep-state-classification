@@ -10,7 +10,7 @@ This project aims to automate the classification of sleep states—wakefulness, 
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 
-##Dataset
+## Dataset
 Get the dataset from - https://physionet.org/content/calcium-imaging-sleep-state/1.0.1/
 ## Installation
 To set up the project for development and testing on your local machine, follow these steps:
