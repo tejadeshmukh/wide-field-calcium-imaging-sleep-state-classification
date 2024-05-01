@@ -17,14 +17,14 @@ To set up the project for development and testing on your local machine, follow 
 3. For MATLAB scripts, ensure MATLAB is installed and configured appropriately on your system.
 
 ## Usage
-To use this project, run the scripts located in the `image_classification` and `MVG_creation` directories:
-- For generating MVGs, execute MATLAB script  "exa.m"  from the `MVG_creation` directory.
-- To classify sleep states based on the generated MVGs using a CNN model, run the Jupyter notebooks in the `image_classification` directory.
+To use this project, run the scripts located in the `MODEL` and `MVG` directories:
+- For generating MVGs, execute MATLAB script  "main.m"  from the `MVG` directory.
+- To classify sleep states based on the generated MVGs using a CNN model, run the Jupyter notebooks in the `MODEL` directory.
 
 
 ## Code Structure
-- `image_classification/`: Contains Jupyter notebooks for data loading, exploratory data analysis, and the CNN model.
-- `MVG_creation/`: Contains MATLAB scripts to create Multiplex Visibility Graphs from wide-field calcium imaging data.
+- `model/`: Contains Jupyter notebooks for data loading, exploratory data analysis, and the CNN model.
+- `MVG/`: Contains MATLAB scripts to create Multiplex Visibility Graphs from wide-field calcium imaging data.
 
 
    
