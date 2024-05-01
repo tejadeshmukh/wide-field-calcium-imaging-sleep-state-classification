@@ -5,10 +5,13 @@ Automated sleep state classification using deep learning and multiplex visibilit
 This project aims to automate the classification of sleep states—wakefulness, non-REM (NREM), and REM—using wide-field calcium imaging (WFCI) data in mice. By leveraging deep learning techniques and the creation of multiplex visibility graphs (MVG), the project bypasses traditional methods that require EEG and EMG recordings, providing a non-invasive alternative that enhances both the accuracy and efficiency of sleep state analysis.
 
 ## Table of Contents
+- [Dataset](#Dataset)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 
+##Dataset
+Get the dataset from - https://physionet.org/content/calcium-imaging-sleep-state/1.0.1/
 ## Installation
 To set up the project for development and testing on your local machine, follow these steps:
 1. Clone the repository:
